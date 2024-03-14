@@ -18,10 +18,10 @@ No clue what I'll be putting here but yes very cool!
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealEzCoins&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iae-st&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="My Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealEzCoins&count_private=true&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="My 'Top' Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iae-st&count_private=true&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="My 'Top' Languages"/>
 <br />
 <br />
 <br />
